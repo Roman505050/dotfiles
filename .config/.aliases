@@ -1,5 +1,10 @@
 # Aliases
 
+## General
+alias ll='ls -la'
+alias la='ls -a'
+alias l='ls -l'
+
 ## Docker
 alias d='docker'
 alias dc='docker compose'
