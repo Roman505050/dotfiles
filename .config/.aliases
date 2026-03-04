@@ -4,7 +4,7 @@
 alias ll='ls -la'
 alias la='ls -a'
 alias l='ls -l'
-aliad c='clear'
+alias c='clear'
 
 ## Docker
 alias d='docker'
