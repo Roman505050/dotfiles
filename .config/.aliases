@@ -1,5 +1,11 @@
 # Aliases
 
+## K8S
+alias k="kubectl"
+alias kgp='k get pods'
+alias klog='k logs'
+alias kdp='k describe pod'
+
 ## General
 alias ll='ls -la'
 alias la='ls -a'
